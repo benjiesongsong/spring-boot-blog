@@ -8,5 +8,4 @@ class BlogApplication
 
 fun main(args: Array<String>) {
     runApplication<BlogApplication>(*args)
-    setBannerMode(Banner.Mode.OFF)
 }
